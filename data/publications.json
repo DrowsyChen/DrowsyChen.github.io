@@ -1,94 +1,74 @@
 [
   {
     "number": 1,
-    "title": "Sustainable Materials for High-Efficiency Solar Energy Storage Systems",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Jennifer Lee, Michael Taylor, Sarah Johnson, David Chen, Thomas Wright, Robert Williams",
-    "type": "preprint",
-    "isFirstAuthor": true,
+    "title": "Precursor Symmetry Triggered Modulation of Fluorescence Quantum Yield in Graphene Quantum Dots",
+    "authors": "L. Chen, S. Yang, Y. Li, Z. Liu, H. Wang, Y. Zhang, K. Qi, G. Wang, P. He, G. Ding",
+    "type": "accepted",
+    "venue": "Advanced Functional Materials 2024, 34, 36: 2401246",
+    "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1002/adfm.202401246"
       }
     ]
   },
   {
     "number": 2,
-    "title": "Bio-inspired Filtration Membranes for Advanced Water Purification",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Michael Taylor, David Chen, William Brown, Thomas Wright, Robert Williams",
-    "type": "preprint",
-    "isFirstAuthor": true,
+    "title": "Machine learning-driven advances in carbon-based quantum dots: Opportunities accompanied by challenges",
+    "authors": "L. Chen, S. Yang, X. Cui, Z. Liu, H. Wang, Y. Li, P. He, M. Wang, G. Ding",
+    "type": "accepted",
+    "venue": "Responsive Materials 2026: e70052",
+    "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1002/rpm2.70052"
       }
     ]
   },
   {
     "number": 3,
-    "title": "EnergyNexus: A Novel Framework for Integrated Renewable Energy Management in Urban Environments",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, David Chen, Thomas Wright, Emily White, Robert Williams, James Miller",
-    "type": "preprint",
-    "isFirstAuthor": true,
+    "title": "Structural evolution of carbon frameworks realizes in vitro interfacial transport in metabolically reprogrammed senescent cells for senolysis",
+    "authors": "X. Wang, H. Ma, Y. Li, L. Chen, C. Ye, Y. Zhao, H. Wang, W. Fu, C. Yu, F. Wang, S. Yang, Y. Kang, G. Ding, Z. Li",
+    "type": "accepted",
+    "venue": "Nature Communications 2026, 17, 1: 5571",
+    "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1038/s41467-026-70810-8"
       }
     ]
   },
   {
     "number": 4,
-    "title": "Lifecycle Assessment of Novel Carbon Capture Materials in Industrial Applications",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, David Chen, Emily White, Robert Williams",
-    "type": "preprint",
-    "isFirstAuthor": true,
+    "title": "Symmetry-Triggered Tunable Phosphorescence Lifetime of Graphene Quantum Dots in a Solid State",
+    "authors": "Y. Li, L. Chen, S. Yang, G. Wei, X. Ren, A. Xu, H. Wang, P. He, H. Dong, G. Wang, C. Ye, G. Ding",
+    "type": "accepted",
+    "venue": "Advanced Materials 2024, 36, 21: 2313639",
+    "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
-        "link": "#"
-      },
-      {
-        "text": "Blog",
-        "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1002/adma.202313639"
       }
     ]
   },
   {
     "number": 5,
-    "title": "Sustainable Energy Transitions in Developing Economies: Challenges, Solutions and Future Directions",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, Thomas Wright, Emily White, Robert Williams",
-    "type": "preprint",
-    "isFirstAuthor": true,
+    "title": "Graphene-based photodetector carrier modulation",
+    "authors": "L. Chen et al.",
+    "type": "accepted",
+    "venue": "Advanced Functional Materials 2025, 36: e18271",
+    "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
         "link": "#"
       }
@@ -96,17 +76,14 @@
   },
   {
     "number": 6,
-    "title": "BioClear: Algae-based Bioremediation System for Urban Water Treatment",
-    "authors": "Jennifer Lee, <strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, Mark Davis, Thomas Wright, Robert Williams",
-    "type": "preprint",
+    "title": "Luminescent materials for medical diagnosis and targeted therapy",
+    "authors": "H. Wang et al.",
+    "type": "accepted",
+    "venue": "Bioactive Materials 2024, 33: 174",
     "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
         "link": "#"
       }
@@ -114,17 +91,14 @@
   },
   {
     "number": 7,
-    "title": "HydroGuard: Real-time Monitoring and Protection System for Groundwater Contamination Prevention",
-    "authors": "Michael Taylor<sup>#</sup>, <strong><u>Alexander \"Alex\" Morgan</u></strong><sup>#</sup>, Lisa Wang, Kevin Miller, Christopher Harris, Robert Williams",
-    "type": "preprint",
-    "isFirstAuthor": true,
+    "title": "Topological structures and luminescence mechanisms of luminescent materials",
+    "authors": "Authors as listed in publication",
+    "type": "accepted",
+    "venue": "Small 2023, 19: 2205957",
+    "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
         "link": "#"
       }
@@ -132,17 +106,14 @@
   },
   {
     "number": 8,
-    "title": "GreenBuild: Sustainable Construction Materials from Recycled Industrial Waste",
-    "authors": "David Chen, Ryan Smith, <strong><u>Alexander \"Alex\" Morgan</u></strong>, Christopher Harris, Emily White, Robert Williams",
-    "type": "preprint",
+    "title": "Bidirectional highly thermally conductive films for electronic thermal management",
+    "authors": "Authors as listed in publication",
+    "type": "accepted",
+    "venue": "Advanced Functional Materials 2025, 35: 2425824",
     "isFirstAuthor": false,
     "tags": [
       {
-        "text": "Preprint",
-        "class": "preprint-tag"
-      },
-      {
-        "text": "PDF",
+        "text": "DOI",
         "class": "code-tag",
         "link": "#"
       }
@@ -150,103 +121,17 @@
   },
   {
     "number": 9,
-    "title": "SolarGrid: Adaptive Control Algorithms for Resilient Solar Microgrids in Remote Communities",
-    "authors": "Michael Taylor, <strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, Robert Williams",
+    "title": "Fluorescent magnetic resonance contrast agents and imaging mechanisms",
+    "authors": "Authors as listed in publication",
     "type": "accepted",
+    "venue": "ACS Applied Materials & Interfaces 2022, 14: 39885",
     "isFirstAuthor": false,
-    "venue": "The 2025 IEEE International Conference on Energy & Sustainability, 19-23 May, Atlanta, USA.",
     "tags": [
       {
-        "text": "ICES'25",
-        "class": "venue-tag"
-      },
-      {
-        "text": "PDF",
-        "class": "code-tag",
-        "link": "#"
-      }
-    ]
-  },
-  {
-    "number": 10,
-    "title": "CarbonTrap: Novel Nanomaterials for Enhanced Direct Air Capture of Carbon Dioxide",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong><sup>#</sup>, Michael Taylor<sup>#</sup>, William Brown, Thomas Wright, Emily White, Robert Williams, James Miller",
-    "type": "accepted",
-    "isFirstAuthor": true,
-    "venue": "The 39th Annual Environmental Science Conference, Philadelphia, Pennsylvania, USA, February 2025.",
-    "tags": [
-      {
-        "text": "ESC'25 Oral",
-        "class": "venue-tag"
-      },
-      {
-        "text": "PDF",
-        "class": "code-tag",
-        "link": "#"
-      }
-    ]
-  },
-  {
-    "number": 11,
-    "title": "Advanced Membrane Technologies for Microplastic Removal from Wastewater Treatment Plants",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, Thomas Wright, Emily White, Robert Williams, James Miller",
-    "type": "accepted",
-    "isFirstAuthor": true,
-    "venue": "IEEE Transactions on Environmental Engineering.",
-    "tags": [
-      {
-        "text": "TEE'24",
-        "class": "venue-tag"
-      },
-      {
-        "text": "PDF",
-        "class": "code-tag",
-        "link": "#"
-      }
-    ]
-  },
-  {
-    "number": 12,
-    "title": "Hybrid Renewable Energy Systems: Optimizing Wind-Solar Integration for Coastal Communities",
-    "authors": "<strong><u>Alexander \"Alex\" Morgan</u></strong>, Sarah Johnson, Kevin Miller, William Brown, Richard Davis, Emily White, Robert Williams",
-    "type": "accepted",
-    "isFirstAuthor": true,
-    "venue": "Global Renewable Energy Conference, Cape Town, South Africa, December 2024.",
-    "tags": [
-      {
-        "text": "GREC'24",
-        "class": "venue-tag"
-      },
-      {
-        "text": "PDF",
-        "class": "code-tag",
-        "link": "#"
-      }
-    ]
-  },
-  {
-    "number": 13,
-    "title": "Circular Economy Approaches to Electronics Waste Management in Developing Countries",
-    "authors": "Sarah Johnson, <strong><u>Alexander \"Alex\" Morgan</u></strong>, Lisa Wang, Thomas Wright, Emily White, Robert Williams",
-    "type": "accepted",
-    "isFirstAuthor": false,
-    "venue": "Journal of Sustainable Development.",
-    "tags": [
-      {
-        "text": "JSD'24",
-        "class": "venue-tag"
-      },
-      {
-        "text": "PDF",
-        "class": "code-tag",
-        "link": "#"
-      },
-      {
-        "text": "Code",
+        "text": "DOI",
         "class": "code-tag",
         "link": "#"
       }
     ]
   }
-
-] 
+]
