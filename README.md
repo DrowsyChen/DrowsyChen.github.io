@@ -523,3 +523,8 @@ This project is available under the MIT License. You are free to use, modify, an
 
 When using this template, attribution is appreciated but not required.
 
+
+
+## Deployment
+
+Live site: https://drowsychen-homepage.pages.dev/
