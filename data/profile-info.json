@@ -1,6 +1,6 @@
 {
   "name": "陈良锋",
-  "subtitle": "浙江理工大学材料科学与工程学院 特聘副教授<br>研究方向：纳米发光材料、纳米催化材料、机器学习",
+  "subtitle": "浙江理工大学 材料科学与工程学院 特聘副教授<br>研究方向：纳米发光材料、纳米催化材料、机器学习",
   "socialLinks": [
     {
       "type": "email",
@@ -12,14 +12,14 @@
       "type": "phone",
       "url": "tel:+8619852857838",
       "icon": "<i class=\"fas fa-phone\"></i>",
-      "label": "+86 198 5285 7838"
+      "label": "(+86) 19852857838"
     },
     {
-      "type": "github",
-      "url": "https://github.com/DrowsyChen",
-      "icon": "<i class=\"fab fa-github\"></i>",
+      "type": "orcid",
+      "url": "https://orcid.org/0000-0002-7695-4578",
+      "icon": "<i class=\"fab fa-orcid\"></i>",
       "target": "_blank",
-      "label": "GitHub"
+      "label": "ORCID"
     }
   ],
   "profileImage": "assets/一寸.jpg"
