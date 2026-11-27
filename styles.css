@@ -1,6 +1,6 @@
 /* Base Styles */
-:root {
-    --primary-color: #0066cc;
+:root {\n    --primary-color: #016D34;
+    --primary-color: #016D34;
     --secondary-color: #f8f9fa;
     --text-color: #333;
     --light-text: #757575;
@@ -36,7 +36,7 @@ a {
 }
 
 a:hover {
-    color: #004080;
+    color: #014d25;
 }
 
 /* Header Styles */
@@ -67,7 +67,7 @@ header {
 #profile-img {
     width: 180px;
     height: 180px;
-    border: 8px solid rgba(255, 255, 255, 0.92);
+    border: 1px solid rgba(255, 255, 255, 0.95);
     border-radius: 10px;
     object-fit: cover;
     box-shadow: 0 0 0 1px rgba(255,255,255,.8), 0 10px 24px rgba(0,0,0,.32), inset 0 0 0 1px rgba(255,255,255,.7);
@@ -111,7 +111,7 @@ h1 {
     justify-content: center;
     border-radius: 50%;
     transition: all 0.3s ease;
-    background-color: rgba(0, 102, 204, 0.05);
+    background-color: rgba(1, 109, 52, 0.05);
     width: 42px;
     height: 42px;
 }
@@ -125,7 +125,7 @@ h1 {
 .icon-svg {
     width: 1.8rem;
     height: 1.8rem;
-    filter: invert(26%) sepia(92%) saturate(1361%) hue-rotate(212deg) brightness(92%) contrast(90%);
+    filter: invert(25%) sepia(90%) saturate(1200%) hue-rotate(95deg) brightness(90%) contrast(95%);
 }
 
 /* Navigation Styles */
@@ -1568,4 +1568,5 @@ footer {
 
 /* Remove school crest; give portrait a raised, framed finish */
 .school-mark { display: none !important; }
-#profile-img { border-style: ridge; border-color: #f7f5ef; }
+#profile-img { border-style: solid; border-color: #f7f5ef; }
+\n.contact-info a[href^='mailto:'] i, .contact-info a[href^='tel:'] i { color: #fff !important; }\n.contact-info a[href*='orcid.org'] i { color: #A6CE39 !important; }\n
