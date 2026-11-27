@@ -1583,3 +1583,10 @@ footer {
 
 /* Force all three header icons to white */
 header .contact-info p:nth-child(1) i, header .contact-info p:nth-child(2) i, header .contact-info p:nth-child(3) i { color: #fff !important; }
+
+/* Green navigation bar with white links */
+nav { background-color: #016D34 !important; }
+.nav-links a { color: #fff !important; }
+.nav-links a:hover, .nav-links a.active { color: #fff !important; }
+.nav-links a::after { background-color: #fff; }
+nav { box-shadow: 0 2px 5px rgba(0,0,0,.12); }
