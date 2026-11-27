@@ -42,11 +42,14 @@ a:hover {
 /* Header Styles */
 header {
     padding: 3rem 0;
-    background-color: var(--secondary-color);
+    background: linear-gradient(90deg, rgba(12, 31, 49, 0.78), rgba(12, 31, 49, 0.28)), url('assets/ZSTU.png') center 48% / cover no-repeat;
     border-bottom: 1px solid var(--border-color);
+    color: #fff;
 }
 
 .header-content {
+    position: relative;
+    gap: 1.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,7 +81,7 @@ h1 {
 
 .subtitle {
     font-size: 1.25rem;
-    color: var(--light-text);
+    color: rgba(255, 255, 255, 0.92);
     margin-bottom: 1.5rem;
 }
 
@@ -461,7 +464,7 @@ nav {
     position: absolute;
     bottom: -10px;
     left: 0;
-    width: 50px;
+    width: 100%;
     height: 3px;
     background-color: var(--primary-color);
 }
@@ -1533,4 +1536,31 @@ footer {
 
 .visitors-section .section-title {
     margin: 0 auto 2rem;
+}
+
+/* Homepage refinements */
+.profile-info { position: relative; z-index: 1; }
+.profile-info h1,
+.profile-info .subtitle { color: #fff; text-shadow: 0 2px 8px rgba(0,0,0,.35); }
+.school-mark {
+    position: absolute;
+    right: 210px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+.school-mark img {
+    display: block;
+    width: 86px;
+    height: 86px;
+    object-fit: contain;
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,.25));
+}
+.about-content p + p { margin-top: 1.35rem; }
+@media (max-width: 768px) {
+    .school-mark { right: 160px; }
+    .school-mark img { width: 54px; height: 54px; }
+}
+@media (max-width: 576px) {
+    .school-mark { display: none; }
 }
