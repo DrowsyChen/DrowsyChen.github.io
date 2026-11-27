@@ -1,5 +1,5 @@
 /* Base Styles */
-:root {\n    --primary-color: #016D34;
+:root {
     --primary-color: #016D34;
     --secondary-color: #f8f9fa;
     --text-color: #333;
@@ -1569,4 +1569,14 @@ footer {
 /* Remove school crest; give portrait a raised, framed finish */
 .school-mark { display: none !important; }
 #profile-img { border-style: solid; border-color: #f7f5ef; }
-\n.contact-info a[href^='mailto:'] i, .contact-info a[href^='tel:'] i { color: #fff !important; }\n.contact-info a[href*='orcid.org'] i { color: #A6CE39 !important; }\n\n.contact-info a i { color: #fff !important; }\n.contact-info a[href*='orcid.org'] i { color: #fff !important; }\n.footer-accent { width:100%; height:14px; background:#016D34; }\n
+
+.contact-info a[href^='mailto:'] i, .contact-info a[href^='tel:'] i { color: #fff !important; }
+.contact-info a[href*='orcid.org'] i { color: #A6CE39 !important; }
+
+.contact-info a i { color: #fff !important; }
+.contact-info a[href*='orcid.org'] i { color: #fff !important; }
+.footer-accent { width:100%; height:14px; background:#016D34; }
+
+.contact-info a i { color:#fff !important; }
+.contact-info a[href*="orcid.org"] i { color:#fff !important; }
+.footer-accent { display:block; width:100%; height:14px; background:#016D34; }
