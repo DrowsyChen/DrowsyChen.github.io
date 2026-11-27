@@ -7,25 +7,27 @@
     "isFirstAuthor": false,
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1002/adfm.202425824",
         "class": "code-tag",
-        "link": "https://doi.org/10.1002/adfm.202401246"
+        "link": "https://doi.org/10.1002/adfm.202425824"
       }
-    ]
+    ],
+    "authors": "Haolong Zheng, Shujing Yang, Peng He, Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Siwei Yang, Gang Wang, Guqiao Ding"
   },
   {
     "number": 2,
     "title": "Machine learning-driven advances in carbon-based quantum dots: Opportunities accompanied by challenges",
     "type": "accepted",
     "venue": "Responsive Materials 2026: e70052（IF 未公布）",
-    "isFirstAuthor": false,
+    "isFirstAuthor": true,
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1002/rpm2.70052",
         "class": "code-tag",
         "link": "https://doi.org/10.1002/rpm2.70052"
       }
-    ]
+    ],
+    "authors": "<strong>Liangfeng Chen</strong> et al."
   },
   {
     "number": 3,
