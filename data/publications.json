@@ -5,7 +5,7 @@
     "type": "accepted",
     "venue": "Advanced Functional Materials 2024, 34(36): 2401246 (IF 19.0)",
     "isFirstAuthor": true,
-    "authors": "<strong>Liangfeng Chen</strong>, Siwei Yang, Yongqiang Li, Zheng Liu, Hang Wang, Yuqing Zhang, Kai Qi, Gang Wang, Peng He, Guqiao Ding",
+    "authors": "<strong>Liangfeng Chen</strong><sup>#</sup>, Siwei Yang<sup>*</sup>, Yongqiang Li, Zheng Liu, Hang Wang, Yuqing Zhang, Kai Qi, Gang Wang, Peng He, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1002/adfm.202401246",
@@ -20,7 +20,7 @@
     "type": "accepted",
     "venue": "Responsive Materials 2026: e70052 (IF 22.9)",
     "isFirstAuthor": true,
-    "authors": "<strong>Liangfeng Chen</strong>, Siwei Yang, Xiangqian Cui, Ziheng Liu, Hang Wang, Yongqiang Li, Peng He, Miao Wang, Guqiao Ding",
+    "authors": "<strong>Liangfeng Chen</strong><sup>#</sup>, Siwei Yang<sup>*</sup>, Xiangqian Cui, Ziheng Liu, Hang Wang, Yongqiang Li, Peng He, Miao Wang<sup>*</sup>, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1002/rpm2.70052",
@@ -35,7 +35,7 @@
     "type": "accepted",
     "venue": "Advanced Materials 2024, 36(21): 2313639 (IF 26.8)",
     "isFirstAuthor": false,
-    "authors": "Yongqiang Li, <strong>Liangfeng Chen</strong>, Siwei Yang, Genwang Wei, Xue Ren, Anli Xu, Hang Wang, Peng He, Hui Dong, Gang Wang, Caichao Ye, Guqiao Ding",
+    "authors": "Yongqiang Li, <strong>Liangfeng Chen</strong><sup>#</sup>, Siwei Yang<sup>#,*</sup>, Genwang Wei, Xue Ren, Anli Xu, Hang Wang, Peng He, Hui Dong, Gang Wang<sup>*</sup>, Caichao Ye<sup>*</sup>, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1002/adma.202313639",
@@ -50,7 +50,7 @@
     "type": "accepted",
     "venue": "Nature Communications 2026, 17(1): 5571 (IF 18.1)",
     "isFirstAuthor": false,
-    "authors": "Xuelian Wang, Hanyu Ma, Yongqiang Li, <strong>Liangfeng Chen</strong>, Caichao Ye, Yuhao Zhao, Hang Wang, Wanting Fu, Chen Yu, Fei Wang, Siwei Yang, Yuli Kang, Guqiao Ding, Zhen Li",
+    "authors": "Xuelian Wang<sup>#</sup>, Hanyu Ma<sup>#</sup>, Yongqiang Li<sup>#</sup>, <strong>Liangfeng Chen</strong><sup>#</sup>, Caichao Ye, Yuhao Zhao, Hang Wang, Wanting Fu, Chen Yu, Fei Wang, Siwei Yang<sup>*</sup>, Yuli Kang<sup>*</sup>, Guqiao Ding<sup>*</sup>, Zhen Li<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1038/s41467-026-70810-8",
@@ -65,7 +65,7 @@
     "type": "accepted",
     "venue": "Advanced Functional Materials 2026, 36(13): e18271 (IF 19.0)",
     "isFirstAuthor": false,
-    "authors": "Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Fanghao Zhu, Shanshui Lian, Genqiang Cao, Hui Ma, Hang Wang, Peng He, Guqiao Ding, Gang Wang, Caichao Ye, Siwei Yang",
+    "authors": "Jinqiu Zhang<sup>#</sup>, <strong>Liangfeng Chen</strong><sup>#</sup>, Fanghao Zhu, Shanshui Lian, Genqiang Cao, Hui Ma, Hang Wang, Peng He, Guqiao Ding, Gang Wang<sup>*</sup>, Caichao Ye<sup>*</sup>, Siwei Yang<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1002/adfm.202518271",
@@ -80,7 +80,7 @@
     "type": "accepted",
     "venue": "Journal of the Chinese Ceramic Society 2022, 50(7): 1821–1829 (EI)",
     "isFirstAuthor": true,
-    "authors": "Chen Liangfeng, Li Yongqiang, Wang Hang, He Peng, Dong Hui, Yang Siwei, Ding Guqiao",
+    "authors": "Chen Liangfeng<sup>#</sup>, Li Yongqiang, Wang Hang, He Peng, Dong Hui, Yang Siwei, Ding Guqiao",
     "tags": [
       {
         "text": "DOI: 10.14062/j.issn.0454-5648.20220032",
@@ -95,7 +95,7 @@
     "type": "accepted",
     "venue": "Bioactive Materials 2024, 33: 174–222 (IF 20.3)",
     "isFirstAuthor": false,
-    "authors": "Hang Wang, Siwei Yang, <strong>Liangfeng Chen</strong>, Yongqiang Li, Peng He, Gang Wang, Hui Dong, Peixiang Ma, Guqiao Ding",
+    "authors": "Hang Wang, Siwei Yang<sup>*</sup>, <strong>Liangfeng Chen</strong>, Yongqiang Li, Peng He, Gang Wang, Hui Dong, Peixiang Ma, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1016/j.bioactmat.2023.10.004",
@@ -110,7 +110,7 @@
     "type": "accepted",
     "venue": "Small 2023, 19(31): 2205957 (IF 12.1)",
     "isFirstAuthor": false,
-    "authors": "Siwei Yang, Yongqiang Li, <strong>Liangfeng Chen</strong>, Hang Wang, Liuyang Shang, Peng He, Hui Dong, Gang Wang, Guqiao Ding",
+    "authors": "Siwei Yang<sup>*</sup>, Yongqiang Li, <strong>Liangfeng Chen</strong>, Hang Wang, Liuyang Shang, Peng He, Hui Dong, Gang Wang<sup>*</sup>, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1002/smll.202205957",
@@ -125,7 +125,7 @@
     "type": "accepted",
     "venue": "Advanced Functional Materials 2025, 35(37): 2425824 (IF 19.0)",
     "isFirstAuthor": false,
-    "authors": "Haolong Zheng, Shujing Yang, Peng He, Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Siwei Yang, Gang Wang, Guqiao Ding",
+    "authors": "Haolong Zheng, Shujing Yang, Peng He, Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Siwei Yang, Gang Wang<sup>*</sup>, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1002/adfm.202425824",
@@ -140,7 +140,7 @@
     "type": "accepted",
     "venue": "Diamond and Related Materials 2026, 165: 113656 (IF 5.1)",
     "isFirstAuthor": false,
-    "authors": "Li-bo Wang, <strong>Liangfeng Chen</strong>, Yupeng Lan, Haolong Zheng, Hang Wang, Shujing Yang, Peng He, Siwei Yang, Guqiao Ding",
+    "authors": "Li-bo Wang, <strong>Liangfeng Chen</strong>, Yupeng Lan, Haolong Zheng, Hang Wang, Shujing Yang, Peng He, Siwei Yang<sup>*</sup>, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1016/j.diamond.2026.113656",
@@ -155,7 +155,7 @@
     "type": "accepted",
     "venue": "ACS Applied Materials & Interfaces 2026, 18(16): 22976–22987 (IF 8.2)",
     "isFirstAuthor": false,
-    "authors": "Hang Wang, Yuli Kang, Qiqiang Zhang, Xuelian Wang, Yongqiang Li, <strong>Liangfeng Chen</strong>, Siwei Yang, Jia Qi, Hui Dong, Guqiao Ding",
+    "authors": "Hang Wang, Yuli Kang, Qiqiang Zhang, Xuelian Wang, Yongqiang Li, <strong>Liangfeng Chen</strong>, Siwei Yang<sup>*</sup>, Jia Qi<sup>*</sup>, Hui Dong<sup>*</sup>, Guqiao Ding",
     "tags": [
       {
         "text": "DOI: 10.1021/acsami.6c03395",
@@ -170,7 +170,7 @@
     "type": "accepted",
     "venue": "ACS Applied Materials & Interfaces 2022, 14(35): 39885–39895 (IF 7.8)",
     "isFirstAuthor": false,
-    "authors": "Liuyang Shang, Yongqiang Li, Yi Xiao, Yili Xu, <strong>Liangfeng Chen</strong>, Hang Wang, Quan Tao, Peixiang Ma, Siwei Yang, Guqiao Ding, Hui Dong",
+    "authors": "Liuyang Shang, Yongqiang Li, Yi Xiao, Yili Xu, <strong>Liangfeng Chen</strong>, Hang Wang, Quan Tao, Peixiang Ma, Siwei Yang<sup>**</sup>, Guqiao Ding<sup>**</sup>, Hui Dong<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1021/acsami.2c12719",
@@ -185,7 +185,7 @@
     "type": "accepted",
     "venue": "Carbon 2026, 256: 121594 (IF 11.6)",
     "isFirstAuthor": false,
-    "authors": "Yupeng Lan, Hanyi Zhang, Hang Wang, <strong>Liangfeng Chen</strong>, Haolong Zheng, Shujing Yang, Peng He, Siwei Yang, Guqiao Ding",
+    "authors": "Yupeng Lan, Hanyi Zhang, Hang Wang, <strong>Liangfeng Chen</strong>, Haolong Zheng, Shujing Yang, Peng He, Siwei Yang<sup>*</sup>, Guqiao Ding<sup>*</sup>",
     "tags": [
       {
         "text": "DOI: 10.1016/j.carbon.2026.121594",
