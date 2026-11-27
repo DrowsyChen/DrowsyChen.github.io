@@ -1,129 +1,196 @@
 [
   {
     "number": 1,
-    "title": "Precursor Symmetry Triggered Modulation of Fluorescence Quantum Yield in Graphene Quantum Dots",
+    "title": "Precursor symmetry triggered modulation of fluorescence quantum yield in graphene quantum dots",
     "type": "accepted",
-    "venue": "Advanced Functional Materials 2024, 34, 36: 2401246（IF 19.4）",
-    "isFirstAuthor": false,
+    "venue": "Advanced Functional Materials 2024, 34(36): 2401246 (IF 19.0)",
+    "isFirstAuthor": true,
+    "authors": "<strong>Liangfeng Chen</strong>, Siwei Yang, Yongqiang Li, Zheng Liu, Hang Wang, Yuqing Zhang, Kai Qi, Gang Wang, Peng He, Guqiao Ding",
     "tags": [
       {
-        "text": "DOI: 10.1002/adfm.202425824",
+        "text": "DOI: 10.1002/adfm.202401246",
         "class": "code-tag",
-        "link": "https://doi.org/10.1002/adfm.202425824"
+        "link": "https://doi.org/10.1002/adfm.202401246"
       }
-    ],
-    "authors": "Haolong Zheng, Shujing Yang, Peng He, Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Siwei Yang, Gang Wang, Guqiao Ding"
+    ]
   },
   {
     "number": 2,
     "title": "Machine learning-driven advances in carbon-based quantum dots: Opportunities accompanied by challenges",
     "type": "accepted",
-    "venue": "Responsive Materials 2026: e70052（IF 未公布）",
+    "venue": "Responsive Materials 2026: e70052 (IF 22.9)",
     "isFirstAuthor": true,
+    "authors": "<strong>Liangfeng Chen</strong>, Siwei Yang, Xiangqian Cui, Ziheng Liu, Hang Wang, Yongqiang Li, Peng He, Miao Wang, Guqiao Ding",
     "tags": [
       {
         "text": "DOI: 10.1002/rpm2.70052",
         "class": "code-tag",
         "link": "https://doi.org/10.1002/rpm2.70052"
       }
-    ],
-    "authors": "<strong>Liangfeng Chen</strong> et al."
-  },
-  {
-    "number": 3,
-    "title": "Structural evolution of carbon frameworks realizes in vitro interfacial transport in metabolically reprogrammed senescent cells for senolysis",
-    "type": "accepted",
-    "venue": "Nature Communications 2026, 17, 1: 5571（IF 17.2）",
-    "isFirstAuthor": false,
-    "tags": [
-      {
-        "text": "DOI",
-        "class": "code-tag",
-        "link": "https://doi.org/10.1038/s41467-026-70810-8"
-      }
     ]
   },
   {
-    "number": 4,
-    "title": "Symmetry-Triggered Tunable Phosphorescence Lifetime of Graphene Quantum Dots in a Solid State",
+    "number": 3,
+    "title": "Symmetry-triggered tunable phosphorescence lifetime of graphene quantum dots in a solid state",
     "type": "accepted",
-    "venue": "Advanced Materials 2024, 36, 21: 2313639（IF 28.9）",
+    "venue": "Advanced Materials 2024, 36(21): 2313639 (IF 26.8)",
     "isFirstAuthor": false,
+    "authors": "Yongqiang Li, <strong>Liangfeng Chen</strong>, Siwei Yang, Genwang Wei, Xue Ren, Anli Xu, Hang Wang, Peng He, Hui Dong, Gang Wang, Caichao Ye, Guqiao Ding",
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1002/adma.202313639",
         "class": "code-tag",
         "link": "https://doi.org/10.1002/adma.202313639"
       }
     ]
   },
   {
-    "number": 5,
-    "title": "Graphene-based photodetector carrier modulation",
+    "number": 4,
+    "title": "Structural evolution of carbon frameworks realizes in vitro interfacial transport in metabolically reprogrammed senescent cells for senolysis",
     "type": "accepted",
-    "venue": "Advanced Functional Materials 2025, 36: e18271（IF 19.4）",
+    "venue": "Nature Communications 2026, 17(1): 5571 (IF 18.1)",
     "isFirstAuthor": false,
+    "authors": "Xuelian Wang, Hanyu Ma, Yongqiang Li, <strong>Liangfeng Chen</strong>, Caichao Ye, Yuhao Zhao, Hang Wang, Wanting Fu, Chen Yu, Fei Wang, Siwei Yang, Yuli Kang, Guqiao Ding, Zhen Li",
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1038/s41467-026-70810-8",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1038/s41467-026-70810-8"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Structure evolution-driven carrier transport engineering in carbon frameworks for high-performance all-carbon photodetectors",
+    "type": "accepted",
+    "venue": "Advanced Functional Materials 2026, 36(13): e18271 (IF 19.0)",
+    "isFirstAuthor": false,
+    "authors": "Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Fanghao Zhu, Shanshui Lian, Genqiang Cao, Hui Ma, Hang Wang, Peng He, Guqiao Ding, Gang Wang, Caichao Ye, Siwei Yang",
+    "tags": [
+      {
+        "text": "DOI: 10.1002/adfm.202518271",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1002/adfm.202518271"
       }
     ]
   },
   {
     "number": 6,
-    "title": "Luminescent materials for medical diagnosis and targeted therapy",
+    "title": "Recent development on photoluminescence performance modulation and mechanism study for graphene quantum dots",
     "type": "accepted",
-    "venue": "Bioactive Materials 2024, 33: 174（IF 20.5）",
-    "isFirstAuthor": false,
+    "venue": "Journal of the Chinese Ceramic Society 2022, 50(7): 1821–1829 (EI)",
+    "isFirstAuthor": true,
+    "authors": "Chen Liangfeng, Li Yongqiang, Wang Hang, He Peng, Dong Hui, Yang Siwei, Ding Guqiao",
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.14062/j.issn.0454-5648.20220032",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.14062/j.issn.0454-5648.20220032"
       }
     ]
   },
   {
     "number": 7,
-    "title": "Topological structures and luminescence mechanisms of luminescent materials",
+    "title": "Tumor diagnosis using carbon-based quantum dots: Detection based on the hallmarks of cancer",
     "type": "accepted",
-    "venue": "Small 2023, 19: 2205957（IF 12.5）",
+    "venue": "Bioactive Materials 2024, 33: 174–222 (IF 20.3)",
     "isFirstAuthor": false,
+    "authors": "Hang Wang, Siwei Yang, <strong>Liangfeng Chen</strong>, Yongqiang Li, Peng He, Gang Wang, Hui Dong, Peixiang Ma, Guqiao Ding",
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1016/j.bioactmat.2023.10.004",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1016/j.bioactmat.2023.10.004"
       }
     ]
   },
   {
     "number": 8,
-    "title": "Bidirectional highly thermally conductive films for electronic thermal management",
+    "title": "Fabrication of carbon-based quantum dots via a “bottom-up” approach: Topology, chirality, and free radical processes in “building blocks”",
     "type": "accepted",
-    "venue": "Advanced Functional Materials 2025, 35: 2425824（IF 19.4）",
+    "venue": "Small 2023, 19(31): 2205957 (IF 12.1)",
     "isFirstAuthor": false,
+    "authors": "Siwei Yang, Yongqiang Li, <strong>Liangfeng Chen</strong>, Hang Wang, Liuyang Shang, Peng He, Hui Dong, Gang Wang, Guqiao Ding",
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1002/smll.202205957",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1002/smll.202205957"
       }
     ]
   },
   {
     "number": 9,
-    "title": "Fluorescent magnetic resonance contrast agents and imaging mechanisms",
+    "title": "Bidirectionally high-thermally conductive graphite films derived from aramid for thermal management in electronics",
     "type": "accepted",
-    "venue": "ACS Applied Materials & Interfaces 2022, 14: 39885（IF 8.5）",
+    "venue": "Advanced Functional Materials 2025, 35(37): 2425824 (IF 19.0)",
     "isFirstAuthor": false,
+    "authors": "Haolong Zheng, Shujing Yang, Peng He, Jinqiu Zhang, <strong>Liangfeng Chen</strong>, Siwei Yang, Gang Wang, Guqiao Ding",
     "tags": [
       {
-        "text": "DOI",
+        "text": "DOI: 10.1002/adfm.202425824",
         "class": "code-tag",
-        "link": "#"
+        "link": "https://doi.org/10.1002/adfm.202425824"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Expansion of graphite via HClO₄ intercalation: The negative size effect",
+    "type": "accepted",
+    "venue": "Diamond and Related Materials 2026, 165: 113656 (IF 5.1)",
+    "isFirstAuthor": false,
+    "authors": "Li-bo Wang, <strong>Liangfeng Chen</strong>, Yupeng Lan, Haolong Zheng, Hang Wang, Shujing Yang, Peng He, Siwei Yang, Guqiao Ding",
+    "tags": [
+      {
+        "text": "DOI: 10.1016/j.diamond.2026.113656",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1016/j.diamond.2026.113656"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Cellular microenvironment triggered ferroptosis and photodynamic therapy for selective senescent cell clearance",
+    "type": "accepted",
+    "venue": "ACS Applied Materials & Interfaces 2026, 18(16): 22976–22987 (IF 8.2)",
+    "isFirstAuthor": false,
+    "authors": "Hang Wang, Yuli Kang, Qiqiang Zhang, Xuelian Wang, Yongqiang Li, <strong>Liangfeng Chen</strong>, Siwei Yang, Jia Qi, Hui Dong, Guqiao Ding",
+    "tags": [
+      {
+        "text": "DOI: 10.1021/acsami.6c03395",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1021/acsami.6c03395"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Synergistic effect of oxygen- and nitrogen-containing groups in graphene quantum dots: Red-emitted dual-mode magnetic resonance imaging contrast agents with high relaxivity",
+    "type": "accepted",
+    "venue": "ACS Applied Materials & Interfaces 2022, 14(35): 39885–39895 (IF 7.8)",
+    "isFirstAuthor": false,
+    "authors": "Liuyang Shang, Yongqiang Li, Yi Xiao, Yili Xu, <strong>Liangfeng Chen</strong>, Hang Wang, Quan Tao, Peixiang Ma, Siwei Yang, Guqiao Ding, Hui Dong",
+    "tags": [
+      {
+        "text": "DOI: 10.1021/acsami.2c12719",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1021/acsami.2c12719"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "The protonation of sp² carbon in super acid for scalable preparation of low-defect graphene",
+    "type": "accepted",
+    "venue": "Carbon 2026, 256: 121594 (IF 11.6)",
+    "isFirstAuthor": false,
+    "authors": "Yupeng Lan, Hanyi Zhang, Hang Wang, <strong>Liangfeng Chen</strong>, Haolong Zheng, Shujing Yang, Peng He, Siwei Yang, Guqiao Ding",
+    "tags": [
+      {
+        "text": "DOI: 10.1016/j.carbon.2026.121594",
+        "class": "code-tag",
+        "link": "https://doi.org/10.1016/j.carbon.2026.121594"
       }
     ]
   }
